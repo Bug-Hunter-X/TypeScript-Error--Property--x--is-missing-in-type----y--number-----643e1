@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error related to type mismatches in function parameters.  The `printCoord` function expects an object with both `x` and `y` properties, but the object passed to it is missing the `x` property.  The solution shows how to correct the input object to match the function's expected type.
